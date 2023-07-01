@@ -1,0 +1,8 @@
+[package]
+name = "typst-theorems"
+version = "1.0.0"
+entrypoint = "theorems.typ"
+authors = ["sahasatvik"]
+license = "MIT"
+description = "An implementation of numbered theorem environments in typst"
+
